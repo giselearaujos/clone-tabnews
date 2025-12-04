@@ -21,3 +21,9 @@ A stack utiliza tecnologias amplamente adotadas no ecossistema JavaScript, facil
 - **Jest** – Ferramenta para realizar testes automatizados.
 - **Vercel** – Plataforma de hospedagem utilizada para deploy contínuo com integração nativa ao Next.js.
 - **Git/GitHub** – Controle de versão do projeto.
+
+## ✏️ Notas
+
+✅ [DAY 02](./doc/notes/D02.md)
+✅ [DAY 03](./doc/notes/D03.md)
+✅ [DAY 04](./doc/notes/D04.md)
