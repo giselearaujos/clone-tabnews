@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="notes/img/tabnews.png" alt="Imagem do Projeto" width="400"/>
+    <img src="./doc/img/tabnews.png" alt="Imagem do Projeto" width="400"/>
 </div>
 
 # 🚧 Projeto TabNews
@@ -24,6 +24,6 @@ A stack utiliza tecnologias amplamente adotadas no ecossistema JavaScript, facil
 
 ## ✏️ Notas
 
-✅ [DAY 02](./doc/notes/D02.md)
-✅ [DAY 03](./doc/notes/D03.md)
-✅ [DAY 04](./doc/notes/D04.md)
+- [DAY 02](./doc/notes/D02.md) ✅
+- [DAY 03](./doc/notes/D03.md) ✅
+- [DAY 04](./doc/notes/D04.md) ✅
