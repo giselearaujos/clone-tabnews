@@ -27,3 +27,4 @@ A stack utiliza tecnologias amplamente adotadas no ecossistema JavaScript, facil
 - [DAY 02](./doc/notes/D02.md) ✅
 - [DAY 03](./doc/notes/D03.md) ✅
 - [DAY 04](./doc/notes/D04.md) ✅
+- [DAY 05](./doc/notes/D05.md) ✅
